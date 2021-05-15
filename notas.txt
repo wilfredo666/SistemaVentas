@@ -1,0 +1,8 @@
+-----------
+pendientes
+-----------
+- terminar la bd en MySQL
+
+-----------------
+tareas terminadas
+-----------------
