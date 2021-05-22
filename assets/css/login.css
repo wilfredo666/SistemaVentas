@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+#formulario{
+    margin-top: 100px;
+
+}
+label{
+    font-size: 25px;
+    color: white;
+}
+form{
+    background-color: blueviolet;
+    height: 200px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+    padding: 25px;
+}
+div{
+    margin: 20px;
+}
+input{
+    height: 30px;
+    border-radius: 5px;
+}
+#acceso{
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    width: 80px;
+    height: 35px;
+}

@@ -1,0 +1,23 @@
+<?php
+include "header.php";
+?>
+<h1>Menu Empleado</h1>
+<div class="menu-item">
+    <table>
+    <tr>
+        <td><img src="assets/img/cuaderno.png" alt=""></td>
+        <td><img src="assets/img/nota.png" alt=""></td>
+        <td><img src="assets/img/buscar.png" alt=""></td>
+    </tr>
+    <tr>
+        <td><a href="empleado/FormRegEmplado.php">Registrar</a></td>
+        <td><a href="">Listar</a></td>
+        <td><a href="">Buscar</a></td>
+    </tr>
+</table>
+</div>
+
+
+<?php
+include "footer.php";
+?>

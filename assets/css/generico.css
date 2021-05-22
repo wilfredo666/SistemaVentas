@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* menu - header*/
+header{
+    background-color: blueviolet;
+    margin-bottom: 60px;
+}
+header ul li{
+    font-size: 25px;
+
+    display: inline-block;
+    padding: 8px;
+}
+
+header ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+header ul li:hover{
+    background-color: white;
+    cursor: pointer;
+}
+header ul li a:hover{
+    color: blueviolet;
+
+}
+header ul{
+    text-align: right;
+}
+
+/*contactos - footer*/
+footer{
+    margin-top: 60px;
+    background-color: blueviolet;
+}
+
+footer div{
+    display: inline-block;
+    width: 48%;
+    font-size: 20px;
+    color: white;
+}
+
+/* estilos para todo archivo - genericos*/
+table tr td img{
+    width: 150px;
+}
+.menu-item{
+    border: solid 1px red;
+    text-align: center:
+}
+table{
+    text-align: center;
+     border: solid 1px blue;
+}
+h1{
+    text-align: center
+}
+        /* estilos para formulario*/
+
+form{
+	width:300px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+	background-color:#ccc;
+    margin: 60px;
+}
+
+form label{
+	width:72px;
+	font-weight:bold;
+	display:inline-block;
+}
+
+form input[type="text"],
+form input[type="email"]{
+	width:180px;
+	padding:3px 10px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;
+	margin:8px 0;
+	display:inline-block;
+}
+
+form input[type="submit"]{
+	width:100%;
+	padding:8px 16px;
+	margin-top:32px;
+	border:1px solid #000;
+	border-radius:5px;
+	display:block;
+	color:#fff;
+	background-color:#000;
+} 
+
+form input[type="submit"]:hover{
+	cursor:pointer;
+}
+
+textarea{
+	width:100%;
+	height:100px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;			
+	margin:8px 0;
+	/*resize: vertical | horizontal | none | both*/
+	resize:none;
+	display:block;
+}

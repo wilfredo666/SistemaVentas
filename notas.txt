@@ -6,3 +6,18 @@ pendientes
 -----------------
 tareas terminadas
 -----------------
+- hacer el login
+
+--------------
+colores del sistema
+-------------------
+color 1: blueviolet
+color 2: blanco
+color 3: gris
+
+-----
+CRUD
+-editar
+-registrar
+-eliminarlos
+-ver
