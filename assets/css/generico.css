@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: sans-serif;
 }
 
 /* menu - header*/
@@ -36,6 +37,9 @@ header ul{
 footer{
     margin-top: 60px;
     background-color: blueviolet;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 footer div{
@@ -43,19 +47,34 @@ footer div{
     width: 48%;
     font-size: 20px;
     color: white;
+    text-align: center;
 }
 
 /* estilos para todo archivo - genericos*/
 table tr td img{
     width: 150px;
 }
+table tr td a{
+       list-style: none;
+    text-decoration: none;
+    font-weight:600;
+    color: black;
+}
+
 .menu-item{
-    border: solid 1px red;
-    text-align: center:
+margin: 30px;
 }
 table{
     text-align: center;
-     border: solid 1px blue;
+    width: 100%;
+}
+td {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #9d98aa;
 }
 h1{
     text-align: center

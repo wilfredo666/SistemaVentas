@@ -5,7 +5,7 @@
         <title>Sistema de ventas</title>
         <link rel="stylesheet" href="assets/css/login.css">
     </head>
-    <body>
+    <body>  
         <div id="formulario">
             <form action="acceso.php" method="post">
                 <div>

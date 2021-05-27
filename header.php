@@ -9,6 +9,7 @@
 <header>
     <ul>
         <li><a href="#">Inicio</a></li>
+        <li><a href="FormVenta.php">Ventas</a></li>
         <li><a href="producto.php">Productos</a></li>
         <li><a href="empleado.php">Empleados</a></li>
         <li><a href="cliente.php">Clientes</a></li>

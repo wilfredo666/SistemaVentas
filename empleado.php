@@ -10,8 +10,8 @@ include "header.php";
         <td><img src="assets/img/buscar.png" alt=""></td>
     </tr>
     <tr>
-        <td><a href="empleado/FormRegEmplado.php">Registrar</a></td>
-        <td><a href="">Listar</a></td>
+        <td><a href="empleado/FormRegEmpleado.php">Registrar</a></td>
+        <td><a href="empleado/ListarEmpleado.php">Listar</a></td>
         <td><a href="">Buscar</a></td>
     </tr>
 </table>
